@@ -1,0 +1,12 @@
+weight = float(input("Enter weight in kg: "))
+height = float(input("Enter height in meters: "))
+bmi = weight / (height * height)
+print(f"Your BMI is: {bmi:.2f}")
+if bmi < 18.0:
+    print("Underweight")
+elif bmi >= 18.0 and bmi < 24.9:
+    print(" Normal")
+elif bmi >= 25.0 and bmi < 30.0:
+    print("Over Weight")
+elif bmi >= 30.0:
+    print("Fat")
