@@ -1,0 +1,3 @@
+name = "Sushant"
+print("Positive slicing (0:4):", name[0:4]) 
+print("Negative indexing (-2):", name[-2]) 
