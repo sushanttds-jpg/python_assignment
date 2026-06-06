@@ -63,7 +63,7 @@ operators.
 30. Program to calculate and print the summation of X= 1 + x
 3 + 2x2
 – 3x3 + 4x4
-
+Added 2 code about OS and how do we removed unwanted string
 – 5x5 ....... nxn
 
 using for-else and while-else loops.
